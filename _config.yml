@@ -1,10 +1,10 @@
 title: Stack Problems
 description: My Personal Stack Problems
 author: Alaukik Pant
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+github: https://github.com/alaukiknpant
+about: I'm Programmer
 disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
+# google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
 tagarray: []
