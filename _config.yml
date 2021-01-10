@@ -34,8 +34,8 @@ urls:
       url: /projects/
 
 
-url: "https://alaukiknpant.github.io"
-baseurl: ""
+url: alaukiknpant.github.io
+baseurl: 
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
